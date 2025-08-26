@@ -1,0 +1,20 @@
+{
+  "name": "bot-moderation",
+  "version": "1.0.0",
+  "description": "Bot de Moderação Discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["discord", "bot", "moderation"],
+  "author": "IsJohn",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

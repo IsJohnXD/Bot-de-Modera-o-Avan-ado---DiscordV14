@@ -1,0 +1,15 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+  "clientId": "ID_DO_BOT_AQUI",
+  "ownerId": "ID_DO_OWNER_AQUI",
+  "status": {
+    "text": "Moderando o servidor",
+    "type": "WATCHING"
+  },
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "error": "#ED4245",
+    "warning": "#FEE75C"
+  }
+}

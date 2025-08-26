@@ -1,0 +1,39 @@
+{
+  "bot": {
+    "name": "Bot Mod",
+    "avatar": null,
+    "status": {
+      "text": "Moderando o servidor",
+      "type": "WATCHING"
+    }
+  },
+  "channels": {
+    "logs": {
+      "bans_public": null,
+      "bans_private": null,
+      "warns": null,
+      "general": null
+    }
+  },
+  "automod": {
+    "antispam": {
+      "enabled": true,
+      "threshold": 5,
+      "timeframe": 10000
+    },
+    "antiraid": {
+      "enabled": true,
+      "threshold": 10,
+      "timeframe": 5000
+    },
+    "autokick": {
+      "enabled": true,
+      "warn_threshold": 3
+    },
+    "autoban": {
+      "enabled": true,
+      "warn_threshold": 5
+    }
+  },
+  "emergencyMode": false
+}
